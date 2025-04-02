@@ -1,0 +1,19 @@
+{
+  "name": "dev-tinder-backend",
+  "version": "1.0.0",
+  "description": "Dev tinde is for Developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "Javascript"
+  ],
+  "author": "Anmol Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
